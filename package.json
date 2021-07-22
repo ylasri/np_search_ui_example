@@ -18,7 +18,7 @@
     "build": "../../node_modules/.bin/plugin-helpers build"
   },
   "dependencies": {
-    "xlsx": "^0.16.4",
+    "xlsx": "^0.17.0",
     "file-saver": "^2.0.2",
     "@elastic/react-search-ui": "1.4.1",
     "@elastic/react-search-ui-views": "1.4.1",
